@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "id": "2",
+      "name": "Kraków",
+      "voivodeship": "małopolskie",
+      "description": "Kraków, Stołeczne Królewskie Miasto Kraków – miasto na prawach powiatu położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców[1][5] i powierzchni miasto kraju[1]. Formalna stolica Polski do 1795 roku i miasto koronacyjne oraz z nekropolią, na Wzgórzu Wawelskim, w podziemiach Katedry,królów Polski. Od 1000 roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. Lokowany przed 1228 rokiem, ponownie w 1257 r.[6]. Od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1999 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. Kraków jest stolicą historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego.",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wawel_castle.jpg",
+      "known_places": [
+        "Rynek Główny",
+        "Kościół Mariacki",
+        "Kopiec Kościuszki",
+        "Zamek Królewski na Wawelu"
+      ],
+      "links": [
+        "https://www.krakow.pl/",
+        "https://pl.wikipedia.org/wiki/Krak%C3%B3w",
+        "https://www.polska.travel/pl/glowne-miasta/krakow"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Poznań",
+      "voivodeship": "wielkopolskie",
+      "description": "Poznań, Stołeczne Miasto Poznań[6] – miasto na prawach powiatu w zachodniej Polsce, położone na Pojezierzu Wielkopolskim, nad rzeką Wartą, u ujścia Cybiny. Historyczna stolica Wielkopolski, od 1999 r. siedziba władz województwa wielkopolskiego i powiatu poznańskiego. Piąte pod względem liczby ludności miasto w Polsce (546 859 mieszkańców w grudniu 2021 r.) i ósme pod względem powierzchni (261,9 km²)[7]. Poznań wraz z powiatem poznańskim i gminami Oborniki, Skoki, Szamotuły i Śrem tworzy aglomerację poznańską, zamieszkałą przez ponad 1,2 mln osób[8][9]. W 2018 think tank Globalization and World Cities (GaWC), badający wzajemne stosunki pomiędzy miastami świata w kontekście globalizacji, uznał Poznań za metropolię globalną (Gamma-)[10]. Poznań często plasuje się w czołówce miast o bardzo wysokiej jakości edukacji i bardzo wysokim standardzie życia[11]. Zajmuje również wysokie miejsce pod względem bezpieczeństwa i jakości opieki zdrowotnej[12]. Miasto Poznań wielokrotnie zdobyło także nagrodę „Superbrands” za markę miasta bardzo wysokiej jakości[13].",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Poznan_10-2013_img10_Town_hall.jpg",
+      "known_places": [
+        "Poznańskie koziołki",
+        "Jezioro Maltańskie",
+        "Stare Zoo",
+        "Ostrów Tumski",
+        "Muzeum Uzbrojenia"
+      ],
+      "links": [
+        "https://www.poznan.pl/",
+        "https://pl.wikipedia.org/wiki/Pozna%C5%84",
+        "https://www.polska.travel/pl/glowne-miasta/poznan",
+        "https://epoznan.pl"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Łódź",
+      "voivodeship": "łódzkie",
+      "description": "Łódź – miasto na prawach powiatu w środkowej Polsce, w historycznej ziemi łęczyckiej. Siedziba władz województwa łódzkiego, powiatu łódzkiego wschodniego oraz gminy Nowosolna, przejściowa siedziba władz państwowych w 1945 roku[5]. Ośrodek akademicki (19 uczelni[6]), kulturalny i przemysłowy. Przed przemianami polityczno-gospodarczymi w 1989 r. centrum przemysłu włókienniczego i filmowego. Od 1910 siedziba diecezji śląsko-łódzkiej Kościoła Starokatolickiego Mariawitów. Siedziba rzymskokatolickiej diecezji łódzkiej od 1920 roku, metropolii łódzkiej od 2004 roku. Od 1948 roku siedziba prawosławnej diecezji łódzko-poznańskiej. Ważny ośrodek życia religijnego, ekumenicznego i dialogu międzyreligijnego Łódź jest czwartym miastem w Polsce pod względem liczby ludności (664 860 mieszkańców; po Warszawie, Krakowie i Wrocławiu)[2] i czwartym pod względem powierzchni (293,25 km²; po Warszawie, Krakowie i Szczecinie)[1]. Miasto należy do Unii Metropolii Polskich[7] i Związku Miast Polskich[8], Związku Powiatów Polskich[9], a także do stowarzyszenia Eurocities[10] oraz Stowarzyszenia Zdrowych Miast Polskich[11].",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%C5%81%C3%B3d%C5%BA%2C_Plac_Ko%C5%9Bcielny%2C_ko%C5%9Bci%C3%B3%C5%82_Wniebowzi%C4%99cia_NMP%2C_1882%E2%80%931892_-1.JPG",
+      "known_places": [
+        "Planetarium EC1",
+        "Plac Wolności",
+        "Dworzec Łódź Fabryczna"
+      ],
+      "links": [
+        "https://lodz.pl/",
+        "https://pl.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA",
+        "https://lodz.naszemiasto.pl/"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Lublin",
+      "voivodeship": "lubelskie",
+      "description": "Lublin (łac. Lublinum) – miasto na prawach powiatu we wschodniej Polsce, stolica województwa i powiatu lubelskiego, centralny ośrodek aglomeracji lubelskiej. Dziewiąte co do wielkości populacji miasto w Polsce, drugie w Małopolsce (334 681 mieszkańców (stan na 30 czerwca 2021)[4]. Położone na Wyżynie Lubelskiej nad Bystrzycą, na dwóch odmiennych obszarach. Część zachodnia ma urozmaiconą rzeźbę terenu. Występują tam liczne wąwozy, doliny i wzgórza. Część wschodnia jest płaska. Lublin jest ulokowany ok. 170 km od Warszawy, nieopodal granicy krain historycznych: Małopolski i Rusi Czerwonej i ok. 100 km od przejścia granicznego z Ukrainą. Osada handlowa, położona na szlaku prowadzącym z okolic Morza Czarnego, istniała w tym miejscu od VI w. Od X do XV w. Lublin należał do jednostki administracyjnej, której centrum był Sandomierz. W I Rzeczypospolitej był ważnym ośrodkiem administracyjnym, handlowym i kulturalnym. Od połowy XVII w. i w XVIII w. miasto podupadło i zubożało. W wyniku III rozbioru znalazło się w zaborze austriackim, następnie kolejno: w Księstwie Warszawskim i Królestwie Polskim. W 3. ćwierci XIX w. Lublin, włączony Koleją Nadwiślańską do rosyjskiej sieci kolejowej, szybko rozrósł się i nabrał charakteru przemysłowego. Zmienił się także jego kształt urbanistyczny. W pierwszej i drugiej wojnie światowej padł ofiarą gospodarki rabunkowej i Holokaustu. W okresie PRL nastąpił gwałtowny rozwój Lublina. W tym czasie ludność wzrosła ponad trzykrotnie. Umocnił się akademicki charakter miasta. Zbudowano szereg zakładów przemysłowych, wzniesiono nowe dzielnice mieszkaniowe. Od 2004 przeprowadzane są liczne inwestycje z funduszy Unii Europejskiej. Miasto rozwija się jako ośrodek nauki, kultury, turystyki, sportu i rekreacji, a także usług i przemysłu. Umacnia się jako węzeł transportowy: posiada ekspresową obwodnicę w ciągu Via Carpathia oraz port lotniczy. Lublin jest członkiem Unii Metropolii Polskich, siedzibą instytucji samorządowych i państwowych, konsulatów, brygady litewsko-polsko-ukraińskiej, archidiecezji i metropolii Kościoła katolickiego oraz diecezji Kościoła prawosławnego.",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lublin%2C_trzy_wie%C5%BCe_%282007-04-01%29.jpg",
+      "known_places": [
+        "Plac Litewski",
+        "Stare Miasto",
+        "Rynek i Trybunał Koronny",
+        "Plac Po Farze"
+      ],
+      "links": [
+        "https://polskapogodzinach.pl/lublin-atrakcje/",
+        "https://lublin.eu/?contrast=black-yellow",
+        "https://pl.wikipedia.org/wiki/Lublin",
+        "https://www.polska.travel/pl/glowne-miasta/lublin"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Rzeszów",
+      "voivodeship": "podkarpackie",
+      "description": "Rzeszów – miasto na prawach powiatu w południowo-wschodniej Polsce, stolica województwa podkarpackiego i ośrodek aglomeracji rzeszowskiej. Według najnowszych danych GUS z 30 czerwca 2022 r. Rzeszów zamieszkuje 196 726 osób[4][3], co czyni go 15. miastem Polski pod względem liczby ludności[4][5]. W mieście znajdują się dwie duże uczelnie państwowe – Uniwersytet Rzeszowski (4 kolegia) i Politechnika Rzeszowska (7 wydziałów) oraz kilka niepublicznych, między innymi Wyższa Szkoła Inżynieryjno-Ekonomiczna, WSPiA Rzeszowska Szkoła Wyższa, Wyższa Szkoła Informatyki i Zarządzania oraz Wyższe Seminarium Duchowne. Do infrastruktury Rzeszowa należy międzynarodowy port lotniczy w Jasionce. W jego bezpośrednim sąsiedztwie zlokalizowany jest Podkarpacki Park Naukowo-Technologiczny Aeropolis, skupiający przemysł wysokiej technologii. Na północnych obrzeżach miasta działa również specjalna strefa ekonomiczna pod nazwą Park Naukowo-Technologiczny Rzeszów-Dworzysko, utworzona z inicjatywy powiatu rzeszowskiego. W mieście działają trzy konsulaty honorowe: Niemiec, Słowacji i Ukrainy. Rzeszów jest członkiem Unii Metropolii Polskich oraz Stowarzyszenia Eurocities zrzeszającego miasta europejskie. Rzeszów otrzymał status miasta na prawie magdeburskim z nadania króla Kazimierza Wielkiego 19 stycznia 1354. Od tego czasu był Rzeszów formalnie do 1845 miastem prywatnym i rezydencją magnacką. Pierwszym właścicielem miasta był rycerz Jan Pakosławic ze Strożysk, którego wspomniany przywilej Kazimierza Wielkiego upoważnił do nowej lokacji przestrzennej na południe od pierwotnej osady (dziś os. Staromieście)[6]. W 1633 Rzeszów uzyskał prawo składu[7]. Miasto leżało pierwotnie na zachodnich rubieżach Rusi Czerwonej, przyłączonej do Polski w rezultacie wypraw Kazimierza Wielkiego, zaś administracyjnie w okresie staropolskim na obszarze ziemi przemyskiej województwa ruskiego[8], blisko granic z ziemią sanocką i z województwem sandomierskim. Po I rozbiorze Polski w 1772 Rzeszów wszedł w skład monarchii austriackiej, a w 1782 został stolicą cyrkułu (początkowo na krótko – pilźnieńskiego, a następnie rzeszowskiego)[9][10]. Od 1869 Rzeszów funkcjonował w obrębie autonomicznej Galicji. Po odzyskaniu niepodległości w 1918 znalazł się w województwie lwowskim. Po zajęciu przez wojska sowieckie w 1944 Rzeszów został desygnowany na siedzibę władz wojewódzkich; od roku 1945 do 1998 był stolicą województwa rzeszowskiego, a od 1 stycznia 1999 jest stolicą województwa podkarpackiego.",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_001.jpg",
+      "known_places": [
+        "Rynek Rzeszowski",
+        "Plac Cichociemnych",
+        "Plac Ofiar Getta"
+      ],
+      "links": [
+        "https://www.erzeszow.pl/",
+        "https://kolejnapodroz.pl/2019/05/03/rzeszow-12-miejsc-ktore-nalezy-zwiedzic-i-zobaczyc/",
+        "https://pl.wikipedia.org/wiki/Rzesz%C3%B3w"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "description": "Gdańsk (kaszub. Gduńsk[6]; niem. Danzig; łac. Gedanum, Dantiscum[7]; niderl. Danswĳk[8]) – miasto na prawach powiatu w północnej Polsce w województwie pomorskim, położone nad Morzem Bałtyckim u ujścia Motławy do Wisły nad Zatoką Gdańską. Centrum kulturalne, naukowe i gospodarcze oraz węzeł komunikacyjny północnej Polski, stolica województwa pomorskiego. Ośrodek gospodarki morskiej z dużym portem handlowym. Gdańsk z 486 022 mieszkańcami[5] zajmuje szóste miejsce w Polsce pod względem liczby ludności, a siódme miejsce pod względem powierzchni – 263,44 km²[4]. Ośrodek aglomeracji trójmiejskiej, nazywaną też gdańską, wraz z Gdynią i Sopotem tworzą Trójmiasto.Jest to miasto o ponadtysiącletniej historii, którego tożsamość na przestrzeni wieków kształtowała się pod wpływem różnych kultur. Gdańsk był również największym miastem Rzeczypospolitej Obojga Narodów, miastem królewskim i hanzeatyckim[9], posiadał prawo do czynnego uczestnictwa w akcie wyboru króla[10], w XVI w. był najbogatszym w Rzeczypospolitej[11]. Obywatelstwo Gdańska dawało przywilej do posiadania ziemi[12]. Należał do niezależnego terytorium miasta Gdańska, położony był w drugiej połowie XVI wieku w województwie pomorskim[13]. Miasto było też ważnym ośrodkiem kulturalnym. Gdańsk uznawany jest za symboliczne miejsce wybuchu II wojny światowej oraz początku upadku komunizmu w Europie Środkowej. Na terenie miasta znajdują się liczne zabytki architektury, działa w nim wiele instytucji i placówek kulturalnych. W Gdańsku odbywają się największe na świecie międzynarodowe targi bursztynu i wyrobów bursztynowych Amberif[14][15].",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gda%C5%84sk%2C_D%C5%82ugi_Targ_%28HB1%29.jpg",
+      "known_places": [
+        "Dom Uphagena",
+        "Fontanna Neptuna",
+        "Ratusz Głównego Miasta",
+        "Droga Królewska"
+      ],
+      "links": [
+        "https://podrozebezosci.pl/gdansk-atrakcje-co-warto-zobaczyc-zwiedzic-w-gdansku-na-weekend-przewodnik/#1_Dom_Uphagena_%E2%80%93_Muzeum_Wnetrz_Mieszczanskich",
+        "https://www.gdansk.pl/",
+        "https://www.polska.travel/pl/glowne-miasta/gdansk",
+        "https://visitgdansk.com/"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "description": "Wrocław i ( niem. Breslau i, łac. Wratislavia, cz. Vratislav) – miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego. Położone w Europie Środkowej, na Nizinie Śląskiej, nad Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska. Jest głównym miastem aglomeracji wrocławskiej. Trzecie pod względem liczby ludności miasto w Polsce (Po Warszawie i Krakowie) – 674 312 mieszkańców (31.12.2021)[4], piąte pod względem powierzchni – 292,8 km²[5]. Miasto było stolicą księstwa wrocławskiego, siedzibą władz pruskiej prowincji Śląsk i rejencji wrocławskiej. Od 28 czerwca 1946 stolica województwa wrocławskiego. Od 1 stycznia 1999 stolica województwa dolnośląskiego, należy do Unii Metropolii Polskich i Eurocities.",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ratusz_wroclaw.JPG",
+      "known_places": [
+        "Ogród Japoński",
+        "Most Pokutnic",
+        "Muzeum Narodowe"
+      ],
+      "links": [
+        "https://visitwroclaw.eu/top-10-atrakcje-wroclaw",
+        "https://pl.wikipedia.org/wiki/Wroc%C5%82aw",
+        "https://visitwroclaw.eu/",
+        "https://www.polska.travel/pl/glowne-miasta/wroclaw"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Katowice",
+      "voivodeship": "śląskie",
+      "description": "Katowice (niem. Kattowitz, od marca 1953 r. do października 1956 r. – Stalinogród[3]) – miasto na prawach powiatu w Polsce, siedziba władz województwa śląskiego, główny ośrodek Górnośląskiego Okręgu Przemysłowego, największe pod względem ludności miasto konurbacji górnośląskiej, siedziba Górnośląsko-Zagłębiowskiej Metropolii, największe pod względem ludności i powierzchni miasto Górnego Śląska. Początki Katowic sięgają XVI wieku, kiedy były ośrodkiem rolniczym i kuźniczym, a ich gwałtowny rozwój został zapoczątkowany w połowie XIX wieku wraz z rozwojem przemysłu i doprowadzeniem do miasta linii kolejowej. Prawa miejskie uzyskały 11 września 1865, po czym rozwijały się w szybkim tempie. Z liczbą 282 755 mieszkańców[2] w grudniu 2021 r. były 11. miastem w kraju pod względem liczby ludności i 12. pod względem powierzchni (164,64 km²). Zlokalizowane na trasie głównych szlaków krajowych i międzynarodowych zarówno drogowych, jak i kolejowych. W Pyrzowicach funkcjonuje międzynarodowy port lotniczy Katowice-Pyrzowice. Stanowią ważny w skali kraju ośrodek gospodarczy, będąc centrum handlowo-usługowym ze znacznym udziałem działalności produkcyjnej. Są również ośrodkiem koncentracji specjalistycznych usług medycznych, funkcji akademickiej, kulturalnej oraz sportowej. W rankingu opublikowanym przez Globalization and World Cities Research Network, Katowice zostały sklasyfikowane w V kategorii (sufficiency level cities) miast o znaczeniu globalnym[4].",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MOs810_WG_2018_8_Zaleczansko_Slaski_%28Mariacka%2C_Katowice%29.jpg",
+      "known_places": [
+        "Ulica Mickiewicza",
+        "Nikiszowiec i Giszowiec",
+        "Muzeum Hutnictwa Walcownia Cynku",
+        "Spodek"
+      ],
+      "links": [
+        "https://www.niesamowitapolska.eu/wojewodztwa/slaskie/miasta/katowice-12-atrakcji-ktore-warto-zobaczyc",
+        "https://pl.wikipedia.org/wiki/Katowice",
+        "https://katowice.naszemiasto.pl/"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Gdynia",
+      "voivodeship": "pomorskie",
+      "description": "Gdynia (wymowa i, kaszub. Gdiniô, niem. Gdingen[a]) – miasto na prawach powiatu w północnej Polsce, w województwie pomorskim, położone nad Morzem Bałtyckim, na Pobrzeżu Gdańskim i Pojezierzu Wschodniopomorskim. Wchodzi w skład Trójmiasta (wraz z Gdańskiem i Sopotem), jest zatem jednym z miast centralnych aglomeracji Trójmiasta. Według stanu na koniec 2021 roku Gdynia liczyła ok. 244 000 mieszkańców[2] (dwunaste miejsce w Polsce[3]) i zajmowała powierzchnię ok. 135 km². Po nowym podziale działek terenu morskiego zwiększyła powierzchnię do 391 km², z czego 66 proc. obejmuje obszar morski[4]. Jest najludniejszym w Polsce miastem niewojewódzkim[5]. Prawa miejskie Gdynia uzyskała 4 marca 1926[1]. Impulsem do rozwoju miasta była budowa portu, który powstał w celu zapewnienia Polsce dostępu do morskich szlaków i bazy marynarki wojennej wobec niepewnej sytuacji w Wolnym Mieście Gdańsku. Szybki napływ ludności i dynamiczny rozwój portu sprawiły, że w ciągu kilkunastu lat po nadaniu praw miejskich Gdynia ze wsi rybackiej przekształciła się w miasto zamieszkane przez blisko 130 tys. osób (1939).",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/00_sea_towers_%28April_2018%29.jpg",
+      "known_places": [
+        "Donas – najwyższy szczyt",
+        "Leśny Ogród Botaniczny Marszewo",
+        "Oceanarium",
+        "Okręt – Muzeum ORP Błyskawica"
+      ],
+      "links": [
+        "https://www.gdynia.pl/",
+        "https://gdynia.naszemiasto.pl/",
+        "https://www.facebook.com/Gdynia/"
+      ]
+    },
+    {
+      "name": "TestoweMmiastoI",
+      "voivodeship": "lubuskie",
+      "description": "ssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "picture_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ratusz_wroclaw.JPG",
+      "known_places": [
+        "coś",
+        "coś",
+        "coś"
+      ],
+      "links": [
+        "https://www.wp.pl/",
+        "https://www.wp.pl/"
+      ],
+      "id": "at-SvfKkPZTfr5hAuiceF"
+    }
+  ]
+}
